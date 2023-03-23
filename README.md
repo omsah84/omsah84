@@ -13,19 +13,19 @@
 
 - 👯 I’m looking to collaborate on [Portfolio](daf)
 
-- 🤝 I’m looking for help with [adfd](adfd)
+- 🤝 I’m looking for help with 
 
-- 👨‍💻 All of my projects are available at [adf](adf)
+- 👨‍💻 All of my projects are available at 
 
-- 📝 I regularly write articles on [ad](ad)
+- 📝 I regularly write articles on
 
-- 💬 Ask me about **adf**
+- 💬 Ask me about 
 
 - 📫 How to reach me **huncyoms@gmail.com**
 
-- 📄 Know about my experiences [adf](adf)
+- 📄 Know about my experiences 
 
-- ⚡ Fun fact **af**
+- ⚡ Fun fact 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
