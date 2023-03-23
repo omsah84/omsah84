@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Project](xyz.git)
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Software Development**
 
-- 👯 I’m looking to collaborate on [Portfolio](daf)
+- 👯 I’m looking to collaborate on Project
 
 - 🤝 I’m looking for help with 
 
