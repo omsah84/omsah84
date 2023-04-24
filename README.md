@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm OM PRAKASH SAH</h1>
+<h1 align="center">Hi 👋, I'm OM SAH</h1>
 <h3 align="center">A passionate software Development.</h3>
+<p align="center">I am ambitious and driven. I thrive on challenge and constantly set goals for myself, so I have something to strive towards. I am not comfortable with setting, and I am always looking for an opportunity to do better and achieve greatness. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omsah84&label=Profile%20views&color=0e75b6&style=flat" alt="omsah84" /> </p>
 
