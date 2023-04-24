@@ -3,30 +3,18 @@
 <p align="center">I am ambitious and driven. I thrive on challenge and constantly set goals for myself, so I have something to strive towards. I am not comfortable with setting, and I am always looking for an opportunity to do better and achieve greatness. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omsah84&label=Profile%20views&color=0e75b6&style=flat" alt="omsah84" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omsah84" alt="omsah84" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/omsah84" target="blank"><img src="https://img.shields.io/twitter/follow/omsah84?logo=twitter&style=for-the-badge" alt="omsah84" /></a> </p>
-
 - 🔭 I’m currently working on [Project](xyz.git)
 
 - 🌱 I’m currently learning **Software Development**
 
 - 👯 I’m looking to collaborate on Project
 
-- 🤝 I’m looking for help with 
-
-- 👨‍💻 All of my projects are available at 
-
-- 📝 I regularly write articles on
-
-- 💬 Ask me about 
+- 👨‍💻 All of my projects are available
 
 - 📫 How to reach me **huncyoms@gmail.com**
 
-- 📄 Know about my experiences 
-
-- ⚡ Fun fact 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
