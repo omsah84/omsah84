@@ -49,7 +49,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=omsah84&show_icons=true&theme=radical&hide_border=true" />
     </td>
     <td valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsah84&theme=radical&hide_border=true" />
+     <img src="https://streak-stats.demolab.com/?user=omsah84&theme=radical&hide_border=true" />
     </td>
   </tr>
   <tr>
